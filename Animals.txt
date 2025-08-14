@@ -2,3 +2,5 @@
 2. Elephant
 3. Lion
 4. Kangaroo
+5. Leopard
+6. Wolf
