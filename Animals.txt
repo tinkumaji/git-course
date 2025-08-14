@@ -1,2 +1,4 @@
 1. Tiger
 2. Elephant
+3. Lion
+4. Kangaroo
